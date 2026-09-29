@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/Oussama-Chaouki78/approvals/releases/download/v1.0.0/approvals-1.0.0.apk",
+  "changes": [
+    "Initial approvals release"
+  ],
+  "minSupportedVersion": "1.0.0",
+  "releaseDate": "2026-09-29"
+}
